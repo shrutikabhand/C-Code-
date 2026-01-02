@@ -1,4 +1,4 @@
-# Calculator Programs in C
+# Calculator Program in C
 This repository contains a menu-driven calculator program written in C.
 The calculator supports basic and advanced mathematical operations.
 
